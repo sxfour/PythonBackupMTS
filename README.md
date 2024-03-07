@@ -1,4 +1,4 @@
-# PythonBackupMTS or C++ (Обновлено на C++)
+# PythonBackupMTS on C++ (Обновлено на C++)
 # Python поддержка только Windows 10
 ![Снимок](https://github.com/sxfour/PythonBackupMTS/assets/112577182/3bb6a759-5440-4f11-b2e9-dcad9bc55973)
 # Сборка через auto-py-to-exe
